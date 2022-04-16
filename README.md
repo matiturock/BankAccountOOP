@@ -2,9 +2,9 @@ BankAccountOOP
 EntryPoint -> Program.cs
 
 
-#APLICACION DE CAJERO AUTOMATICO
+# APLICACION DE CAJERO AUTOMATICO
  
-##Desarrolle una aplicación en C#, para un cajero automático. 
+## Desarrolle una aplicación en C#, para un cajero automático. 
 * La aplicación permitirá crear cuentas para jubilados y personas en actividad.
 * Los usuarios del cajero podrán depositar en su cuenta y realizar extracciones de la misma.
 * Si el usuario es una persona en actividad laboral podrá retirar hasta 20000 pesos en concepto de adelanto de sueldo.
