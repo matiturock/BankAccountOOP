@@ -3,6 +3,8 @@ EntryPoint -> Program.cs
 
 
 # APLICACION DE CAJERO AUTOMATICO
+
+![cajero img](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2018/10/cajero-automatico.jpg?itok=WU6WT5PT)
  
 ## Desarrolle una aplicación en C#, para un cajero automático. 
 * La aplicación permitirá crear cuentas para jubilados y personas en actividad.
